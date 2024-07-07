@@ -1,1 +1,1 @@
-# collections-java-api
+# Collection Framework API
